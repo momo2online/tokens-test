@@ -25,6 +25,10 @@
           "type": "color"
         }
       }
+    },
+    "test": {
+      "value": "#ff8a8a",
+      "type": "color"
     }
   },
   "$themes": [],
