@@ -1,5 +1,4 @@
 {
-  "color": {
     "color": {
       "base": {
         "gray": {
@@ -36,5 +35,4 @@
     "tokenSetOrder": [
       "color"
     ]
-  }
 }
