@@ -1,38 +1,13 @@
 {
-    "color": {
-      "base": {
-        "gray": {
-          "light": {
-            "value": "#CCCCCC",
-            "type": "color"
-          },
-          "medium": {
-            "value": "#999999",
-            "type": "color"
-          },
-          "dark": {
-            "value": "#555555",
-            "type": "color"
-          }
-        },
-        "red": {
-          "value": "#FF0000",
-          "type": "color"
-        },
-        "green": {
-          "value": "#3d993d",
-          "type": "color"
-        }
-      }
-    },
-    "test": {
-      "value": "#ff8a8a",
-      "type": "color"
+  "color": {
+    "base": {
+      "gray": {
+        "light" : { "value": "#CCCCCC" },
+        "medium": { "value": "#999999" },
+        "dark"  : { "value": "#555555" }
+      },
+      "red": { "value": "#FF0000" },
+      "green": { "value": "#00FF00" }
     }
-  },
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": [
-      "color"
-    ]
+  }
 }
