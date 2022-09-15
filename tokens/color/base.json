@@ -23,6 +23,10 @@
         "value": "#00FF00",
         "type": "other"
       }
+    },
+    "sky blue": {
+      "value": "#FF0000",
+      "type": "other"
     }
   },
   "$themes": [],
