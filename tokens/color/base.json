@@ -37,7 +37,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{color.base.gray.light.value}",
+          "value": "#000000",
           "type": "color"
         }
       }
