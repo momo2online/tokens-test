@@ -2,12 +2,33 @@
   "color": {
     "base": {
       "gray": {
-        "light" : { "value": "#CCCCCC" },
-        "medium": { "value": "#999999" },
-        "dark"  : { "value": "#555555" }
+        "light": {
+          "value": "#CCCCCC",
+          "type": "other"
+        },
+        "medium": {
+          "value": "#999999",
+          "type": "other"
+        },
+        "dark": {
+          "value": "#777777",
+          "type": "other"
+        }
       },
-      "red": { "value": "#FF0000" },
-      "green": { "value": "#00FF00" }
+      "red": {
+        "value": "#FF0000",
+        "type": "other"
+      },
+      "green": {
+        "value": "#00FF00",
+        "type": "other"
+      }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "color"
+    ]
   }
 }
